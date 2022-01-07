@@ -8,10 +8,10 @@ Gilteun Choi is an undergraduate student in the [School of Computing Science and
 
 ## Projects
 
-Vehicle Information Service Specification([VISS](https://www.w3.org/TR/viss2-core/)) interface prototype development<sup>[GitHub](https://github.com/skku-iotlab/viss_backend)</sup>
-* REST API and websocket server development & vehicle data generation using Django
-* with SKKU IoTLab. and ETRI(Electronics and Telecommunications Research Institute.) 
+Vehicle Information Service Specification([VISS](https://www.w3.org/TR/viss2-core/)) interface prototype development<sup>[GitHub](https://github.com/skku-iotlab/viss_backend)</sup><br>
+> REST API and websocket server development & vehicle data generation using Django.<br>
+With SKKU IoTLab. and ETRI(Electronics and Telecommunications Research Institute.).<br>
 
-Smart Seamless Station - Android application for guiding visually impaired persons in subway stations<sup>[GitHub](https://github.com/gilteunchoi/3S)</sup>
-* localization service based on public WiFi's RSSI & BSSID, analizing with pytorch neural-network model
-* related studies were published at the KICS-2021-Fall conference<sup>[1](http://iotlab.skku.edu/publications/domestic-conference/WiFi-Beacon-Localization-KICS-2021-Fall.pdf)</sup>.
+Smart Seamless Station - Android application for guiding visually impaired persons in subway stations<sup>[GitHub](https://github.com/gilteunchoi/3S)</sup><br>
+> Localization service based on public WiFi's RSSI & BSSID, analizing with pytorch neural-network model.<br>
+Related studies were published at the KICS-2021-Fall conference<sup>[1](http://iotlab.skku.edu/publications/domestic-conference/WiFi-Beacon-Localization-KICS-2021-Fall.pdf)</sup>.<br>
