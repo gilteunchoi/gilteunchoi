@@ -9,5 +9,5 @@ Gilteun Choi, Seongreol Park, Jihyeon Lee, Jungwan Choy, and Jaehoon (Paul) Jeon
 ## Projects
 
 [VISS](https://www.w3.org/TR/viss2-core/) interface prototype development (2021) - [GitHub](https://github.com/skku-iotlab/viss_backend)
-* REST API and Websocket server development with Django
+* REST API and websocket server development & vehicle data generation using Django.
 * with SKKU IoTLab. and ETRI(Electronics and Telecommunications Research Institute.). 
