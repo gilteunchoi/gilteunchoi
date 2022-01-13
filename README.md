@@ -16,6 +16,11 @@ Smart Seamless Station - Android application for guiding visually impaired perso
 > Localization service based on public WiFi's RSSI & BSSID, analyzing with PyTorch neural-network model.<br>
 Related studies were published at the KICS-2021-Fall conference<sup>[1](http://iotlab.skku.edu/publications/domestic-conference/WiFi-Beacon-Localization-KICS-2021-Fall.pdf)</sup>.<br>
 
-* * *
-
+## Interests
+<a href="https://omnetpp.org/"><img src="https://img.shields.io/badge/OMNet++-196f93?style=flat"/></a>
+<a href="https://sumo.dlr.de/docs/index.html"><img src="https://img.shields.io/badge/SUMO-338033?style=flat"/></a>
+<a href="https://inet.omnetpp.org/"><img src="https://img.shields.io/badge/INET-2fa4e7?style=flat"/></a>
+<a href="https://www.w3.org/TR/vehicle-information-service/"><img src="https://img.shields.io/badge/VISS-1a5e9a?style=flat"/></a>
+<a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-0C4B33?style=flat"/></a>
+<a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-ff9900?style=flat"/></a>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgilteunchoi&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
