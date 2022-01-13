@@ -15,3 +15,7 @@ With SKKU IoTLab. and ETRI(Electronics and Telecommunications Research Institute
 Smart Seamless Station - Android application for guiding visually impaired persons in subway stations<sup>[GitHub](https://github.com/gilteunchoi/3S)</sup><br>
 > Localization service based on public WiFi's RSSI & BSSID, analizing with pytorch neural-network model.<br>
 Related studies were published at the KICS-2021-Fall conference<sup>[1](http://iotlab.skku.edu/publications/domestic-conference/WiFi-Beacon-Localization-KICS-2021-Fall.pdf)</sup>.<br>
+
+* * *
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgilteunchoi&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
