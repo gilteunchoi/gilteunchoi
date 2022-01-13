@@ -18,7 +18,7 @@ Related studies were published at the KICS-2021-Fall conference<sup>[1](http://i
 
 ## Interests
 <a href="https://omnetpp.org/"><img src="https://img.shields.io/badge/OMNet++-196f93?style=flat"/></a>
-<a href="https://sumo.dlr.de/docs/index.html"><img src="https://img.shields.io/badge/SUMO-338033?style=flat"/></a>
+<a href="https://www.eclipse.org/sumo/"><img src="https://img.shields.io/badge/SUMO-338033?style=flat"/></a>
 <a href="https://inet.omnetpp.org/"><img src="https://img.shields.io/badge/INET-2fa4e7?style=flat"/></a>
 <a href="https://www.w3.org/TR/vehicle-information-service/"><img src="https://img.shields.io/badge/VISS-1a5e9a?style=flat"/></a>
 <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-0C4B33?style=flat"/></a>
