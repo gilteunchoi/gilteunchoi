@@ -4,7 +4,7 @@ Gilteun Choi is an undergraduate student in the [School of Computing Science and
 
 ## Publications[<sup>Google Scholar</sup>](https://scholar.google.com/citations?user=WYW1S4wAAAAJ)
 
-1. Gilteun Choi, Seongreol Park, Jihyeon Lee, Jungwan Choy, and Jaehoon (Paul) Jeong, ["Wi-Fi Beacon-Based Localization for Guiding Visually Impaired Persons in Subway Stations"](http://iotlab.skku.edu/publications/domestic-conference/WiFi-Beacon-Localization-KICS-2021-Fall.pdf), KICS-2021-Fall, Yeosu City, Korea, November 17-19, 2021.
+1. Gilteun Choi, Seongreol Park, Jihyeon Lee, Jungwan Choy, and Jaehoon (Paul) Jeong, ["Wi-Fi Beacon-Based Localization for Guiding Visually Impaired Persons in Subway Stations", KICS-2021-Fall,](http://iotlab.skku.edu/publications/domestic-conference/WiFi-Beacon-Localization-KICS-2021-Fall.pdf)<b> Best Student Paper,</b> Yeosu City, Korea, November 17-19, 2021.
 
 ## Projects
 
