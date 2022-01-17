@@ -2,12 +2,11 @@
 
 Gilteun Choi is an undergraduate student in the [School of Computing Science and Engineering](https://cse.pusan.ac.kr/cseEng/index..do), College of Information and BioMedical Engineering, [Pusan National University](https://www.pusan.ac.kr/eng/Main.do), South Korea since 2021. He is an Intern researcher in the [Internet of Things (IoT) Laboratory](http://iotlab.skku.edu/index.php), Department of Computer Science and Engineering, College of Software, [Sungkyunkwan University](https://www.skku.edu/eng/), South Korea since summer 2021.
 
-## Publications
-[Link to Google Scholar](https://scholar.google.com/citations?user=WYW1S4wAAAAJ)
+## Publications <a href="https://scholar.google.com/citations?user=WYW1S4wAAAAJ"><img src="https://img.shields.io/badge/Google Scholar-4285F4?style=flat&logo=GoogleScholar&logoColor=white"/></a>
 
 1. Seongreol Park, Gilteun Choi, Hong Jinwook and Hwan-Gue Cho, "Performance Analysis on Grain Seeds Counting Algorithms", IPIU 2022, Online, February 9-11, 2022.
 
-2. Gilteun Choi, Seongreol Park, Jihyeon Lee, Jungwan Choy, and Jaehoon (Paul) Jeong, ["Wi-Fi Beacon-Based Localization for Guiding Visually Impaired Persons in Subway Stations", KICS-2021-Fall,](http://iotlab.skku.edu/publications/domestic-conference/WiFi-Beacon-Localization-KICS-2021-Fall.pdf)<b> Best Student Paper Award,</b> Yeosu City, Korea, November 17-19, 2021.
+2. Gilteun Choi, Seongreol Park, Jihyeon Lee, Jungwan Choy, and Jaehoon (Paul) Jeong, ["Wi-Fi Beacon-Based Localization for Guiding Visually Impaired Persons in Subway Stations", KICS-2021-Fall](http://iotlab.skku.edu/publications/domestic-conference/WiFi-Beacon-Localization-KICS-2021-Fall.pdf), <b>Best Student Paper Award</b>, Yeosu City, Korea, November 17-19, 2021.
 
 ## Projects
 
