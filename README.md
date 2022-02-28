@@ -8,9 +8,6 @@ Gilteun Choi is an undergraduate student in the [School of Computing Science and
 
 2. Gilteun Choi, Seongreol Park, Jihyeon Lee, Jungwan Choy, and Jaehoon (Paul) Jeong, ["Wi-Fi Beacon-Based Localization for Guiding Visually Impaired Persons in Subway Stations", KICS-2021-Fall](http://iotlab.skku.edu/publications/domestic-conference/WiFi-Beacon-Localization-KICS-2021-Fall.pdf), <b>Best Student Paper Award</b>, Yeosu City, Korea, November 17-19, 2021.
 
-<a href="https://scholar.google.com/citations?user=WYW1S4wAAAAJ"><img src="https://img.shields.io/badge/Google Scholar-4285F4?style=flat&logo=GoogleScholar&logoColor=white"/></a>
-<a href="https://www.dbpia.co.kr/author/authorDetail?ancId=5079461"><img src="https://img.shields.io/badge/DBpia-ef4348?style=flat"/></a>
-
 ## Projects
 
 Vehicle Information Service Specification interface prototype development - [GitHub](https://github.com/skku-iotlab/viss_backend)<br>
@@ -22,14 +19,18 @@ Smart Seamless Station - Android application for guiding visually impaired perso
 - Localization service based on public WiFi's RSSI & BSSID, analyzing with PyTorch neural-network model. 
 - Related studies were published at the KICS-2021-Fall conference<sup>[2](http://iotlab.skku.edu/publications/domestic-conference/WiFi-Beacon-Localization-KICS-2021-Fall.pdf)</sup>.<br>
 
-## Interests and Related Links
-
-<a href="https://mailcar.com"><img src="https://img.shields.io/badge/My BLOG-e9dcbe?style=flat"/></a>
-<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/?nc1=h_ls"><img src="https://img.shields.io/badge/AWS Certified Cloud Practitioner-ff9900?style=flat"/></a>
-<a href="https://cse.pusan.ac.kr/cse/27725/subview.do"><img src="https://img.shields.io/badge/CodeCoach-196f93?style=flat"/></a><br>
+## Interests
+### I am interested in:
 <a href="https://omnetpp.org/"><img src="https://img.shields.io/badge/OMNet++-196f93?style=flat"/></a>
 <a href="https://www.eclipse.org/sumo/"><img src="https://img.shields.io/badge/SUMO-338033?style=flat"/></a>
 <a href="https://inet.omnetpp.org/"><img src="https://img.shields.io/badge/INET-2fa4e7?style=flat"/></a>
 <a href="https://www.w3.org/TR/vehicle-information-service/"><img src="https://img.shields.io/badge/VISS-1a5e9a?style=flat"/></a>
 <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-0C4B33?style=flat"/></a>
+
+### Realted links:
+<a href="https://mailcar.com"><img src="https://img.shields.io/badge/My BLOG-e9dcbe?style=flat"/></a>
+<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/?nc1=h_ls"><img src="https://img.shields.io/badge/AWS Certified Cloud Practitioner-ff9900?style=flat"/></a>
+<a href="https://cse.pusan.ac.kr/cse/27725/subview.do"><img src="https://img.shields.io/badge/CodeCoach-196f93?style=flat"/></a>
+<a href="https://scholar.google.com/citations?user=WYW1S4wAAAAJ"><img src="https://img.shields.io/badge/Google Scholar-4285F4?style=flat&logo=GoogleScholar&logoColor=white"/></a>
+<a href="https://www.dbpia.co.kr/author/authorDetail?ancId=5079461"><img src="https://img.shields.io/badge/DBpia-ef4348?style=flat"/></a>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgilteunchoi&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
