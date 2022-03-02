@@ -11,9 +11,9 @@ Gilteun Choi is an undergraduate student in the [School of Computing Science and
 ## Projects
 
 Vehicle Information Service Specification interface prototype development - [GitHub](https://github.com/skku-iotlab/viss_backend)<br>
+- REST API and WebSocket server development & mock data generation using Django.
+- Worked with SKKU IoTLab. and Electronics and Telecommunications Research Institute., South Korea.
 - What is [VISS?](https://www.w3.org/TR/viss2-core/)
-- REST API and WebSocket server development & vehicle data generation using Django.
-- Worked with SKKU IoTLab. and ETRI(Electronics and Telecommunications Research Institute.).
 
 Smart Seamless Station - Android application for guiding visually impaired persons in subway stations - [GitHub](https://github.com/gilteunchoi/3S)<br>
 - Localization service based on public WiFi's RSSI & BSSID, analyzing with PyTorch neural-network model. 
