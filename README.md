@@ -28,7 +28,7 @@ Smart Seamless Station - Android application for guiding visually impaired perso
 <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-0C4B33?style=flat"/></a>
 
 ### Realted links:
-<a href="https://mailcar.com"><img src="https://img.shields.io/badge/My BLOG-e9dcbe?style=flat"/></a>
+<a href="https://mailcar.com"><img src="https://img.shields.io/badge/Blog-e9dcbe?style=flat"/></a>
 <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/?nc1=h_ls"><img src="https://img.shields.io/badge/AWS Certified Cloud Practitioner-ff9900?style=flat"/></a>
 <a href="https://cse.pusan.ac.kr/cse/27725/subview.do"><img src="https://img.shields.io/badge/CodeCoach-196f93?style=flat"/></a>
 <a href="https://scholar.google.com/citations?user=WYW1S4wAAAAJ"><img src="https://img.shields.io/badge/Google Scholar-4285F4?style=flat&logo=GoogleScholar&logoColor=white"/></a>
