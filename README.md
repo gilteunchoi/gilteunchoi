@@ -20,7 +20,7 @@ Smart Seamless Station - Android application for guiding visually impaired perso
 - Related studies were published at the KICS-2021-Fall conference<sup>[2](http://iotlab.skku.edu/publications/domestic-conference/WiFi-Beacon-Localization-KICS-2021-Fall.pdf)</sup>.<br>
 
 ## Interests
-### I am interested in:
+### Topics:
 <a href="https://omnetpp.org/"><img src="https://img.shields.io/badge/OMNet++-196f93?style=flat"/></a>
 <a href="https://www.eclipse.org/sumo/"><img src="https://img.shields.io/badge/SUMO-338033?style=flat"/></a>
 <a href="https://inet.omnetpp.org/"><img src="https://img.shields.io/badge/INET-2fa4e7?style=flat"/></a>
