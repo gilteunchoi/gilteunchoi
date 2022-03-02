@@ -11,7 +11,7 @@ Gilteun Choi is an undergraduate student in the [School of Computing Science and
 ## Projects
 
 Vehicle Information Service Specification interface prototype development - [GitHub](https://github.com/skku-iotlab/viss_backend)<br>
-- REST API and WebSocket server development & mock data generation using Django.
+- REST API and WebSocket server development using Django & mock vehicle data generation.
 - Worked with SKKU IoTLab. and Electronics and Telecommunications Research Institute., South Korea.
 - What is [VISS?](https://www.w3.org/TR/viss2-core/)
 
