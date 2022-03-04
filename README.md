@@ -28,8 +28,10 @@ Smart Seamless Station - Android application for guiding visually impaired perso
 <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-0C4B33?style=flat"/></a>
 
 ### Realted links:
+[![aws-certified-solutions-architect-associate (1)](https://user-images.githubusercontent.com/61682534/156750419-1f579af3-64fb-4dfe-b337-987304234bf4.png)](https://www.credly.com/badges/f53f8506-56ba-4c42-9c36-10b76cd17146/public_url)
+[![aws-certified-cloud-practitioner](https://user-images.githubusercontent.com/61682534/156750469-739c419b-a4ea-47ea-9cac-92253a3230cb.png)](https://www.credly.com/badges/cdd98f16-d80d-4bdb-b745-984296205154/public_url)
+
 <a href="https://mailcar.com"><img src="https://img.shields.io/badge/Blog-e9dcbe?style=flat"/></a>
-<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/?nc1=h_ls"><img src="https://img.shields.io/badge/AWS Certified Cloud Practitioner-ff9900?style=flat"/></a>
 <a href="https://cse.pusan.ac.kr/cse/27725/subview.do"><img src="https://img.shields.io/badge/CodeCoach-196f93?style=flat"/></a>
 <a href="https://scholar.google.com/citations?user=WYW1S4wAAAAJ"><img src="https://img.shields.io/badge/Google Scholar-4285F4?style=flat&logo=GoogleScholar&logoColor=white"/></a>
 <a href="https://www.dbpia.co.kr/author/authorDetail?ancId=5079461"><img src="https://img.shields.io/badge/DBpia-ef4348?style=flat"/></a>
