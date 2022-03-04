@@ -1,15 +1,12 @@
 ## Biography
-
 Gilteun Choi is an undergraduate student in the [School of Computing Science and Engineering](https://cse.pusan.ac.kr/cseEng/index..do), College of Information and BioMedical Engineering, [Pusan National University](https://www.pusan.ac.kr/eng/Main.do), South Korea since 2021. He is an Intern researcher in the [Internet of Things (IoT) Laboratory](http://iotlab.skku.edu/index.php), Department of Computer Science and Engineering, College of Software, [Sungkyunkwan University](https://www.skku.edu/eng/), South Korea since summer 2021.
 
 ## Publications 
-
 1. Seongreol Park, Gilteun Choi, Hong Jinwook and Hwan-Gue Cho, "Performance Analysis on Grain Seeds Counting Algorithms", IPIU 2022, Online, February 9-11, 2022.
 
 2. Gilteun Choi, Seongreol Park, Jihyeon Lee, Jungwan Choy, and Jaehoon (Paul) Jeong, ["Wi-Fi Beacon-Based Localization for Guiding Visually Impaired Persons in Subway Stations", KICS-2021-Fall](http://iotlab.skku.edu/publications/domestic-conference/WiFi-Beacon-Localization-KICS-2021-Fall.pdf), <b>Best Student Paper Award</b>, Yeosu City, Korea, November 17-19, 2021.
 
 ## Projects
-
 Vehicle Information Service Specification interface prototype development - [GitHub](https://github.com/skku-iotlab/viss_backend)<br>
 - REST API and WebSocket server development using Django & mock vehicle data generation.
 - Worked with SKKU IoTLab. and Electronics and Telecommunications Research Institute., South Korea.
@@ -20,8 +17,8 @@ Smart Seamless Station - Android application for guiding visually impaired perso
 - Related studies were published at the KICS-2021-Fall conference<sup>[2](http://iotlab.skku.edu/publications/domestic-conference/WiFi-Beacon-Localization-KICS-2021-Fall.pdf)</sup>.<br>
 
 ## Certifications:
-[![aws-certified-solutions-architect-associate (1)](https://user-images.githubusercontent.com/61682534/156750419-1f579af3-64fb-4dfe-b337-987304234bf4.png)](https://www.credly.com/badges/f53f8506-56ba-4c42-9c36-10b76cd17146/public_url)
-[![aws-certified-cloud-practitioner](https://user-images.githubusercontent.com/61682534/156750469-739c419b-a4ea-47ea-9cac-92253a3230cb.png)](https://www.credly.com/badges/cdd98f16-d80d-4bdb-b745-984296205154/public_url)
+<a href="https://www.credly.com/badges/f53f8506-56ba-4c42-9c36-10b76cd17146/public_url"><img src="https://user-images.githubusercontent.com/61682534/156751782-7e5585b7-d97e-4530-8e03-8f100dd4aa58.png" width="120"></a>
+<a href="https://www.credly.com/badges/cdd98f16-d80d-4bdb-b745-984296205154/public_url"><img src="https://user-images.githubusercontent.com/61682534/156751755-46dc2622-06ca-4782-ac95-07860e9a751f.png" width="120"></a>
 
 ## Interests
 ### Topics:
