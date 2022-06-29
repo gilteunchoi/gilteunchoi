@@ -8,7 +8,7 @@ Gilteun Choi is an undergraduate student in the [School of Computing Science and
 
 ## Contributed Projects
 
-***IPWAVE: IP Wireless Access in Vehicular Environments Basic Protocols (IETF Hackathon 111, 113) - [GitHub](https://github.com/ipwave-hackathon-ietf)***
+***IPWAVE: IP Wireless Access in Vehicular Environments Basic Protocols (IETF Hackathon 111, 113) - [GitHub](https://github.com/ipwave-hackathon-ietf/ipwave-hackathon-ietf-113_handover/tree/main/lstm-keras-main)***
 - ML-based Proactive Handover in LTE/5G using OMNet++ and SimuLTE. 
 - Worked with SKKU IoTLab.
 
