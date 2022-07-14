@@ -8,12 +8,12 @@ Gilteun Choi is an undergraduate student in the [School of Computing Science and
 
 ## Contributed Projects
 
-***IPWAVE: IP Wireless Access in Vehicular Environments Basic Protocols (IETF Hackathon 111, 113) - [GitHub](https://github.com/ipwave-hackathon-ietf/ipwave-hackathon-ietf-113_handover/tree/main/lstm-keras-main)***
+***IPWAVE: IP Wireless Access in Vehicular Environments Basic Protocols (IETF Hackathon 111, 113) - [GitHub](https://github.com/ipwave-hackathon-ietf/ipwave-hackathon-ietf-113)***
 - ML-based Proactive Handover in LTE/5G using OMNet++ and SimuLTE. 
 - Worked with SKKU IoTLab.
 
-***RustPython: A Python-3 Interpreter written in Rust - [GitHub](https://github.com/RustPython/RustPython/pull/3577)***
-- Minor Open Source Contribution during PyCon APAC 2022.
+***RustPython: A Python-3 Interpreter written in Rust - [GitHub](https://github.com/RustPython/RustPython/pulls?q=is%3Apr+is%3Aclosed+author%3Agilteunchoi+)***
+- Open Source Contribution during [PyCon APAC 2022](https://tw.pycon.org/2022/en-us) and [OSSCA 2022](https://www.contribution.ac/).
 
 ***[VISS](https://www.w3.org/TR/viss2-core/): Vehicle Information Service Specification Interface - [GitHub](https://github.com/skku-iotlab/viss_backend)***
 - REST API and WebSocket server Development using Django.
