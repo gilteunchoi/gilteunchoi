@@ -8,18 +8,18 @@ Gilteun Choi is an undergraduate student in the [School of Computing Science and
 
 ## Contributed Projects
 
-***IPWAVE: IP Wireless Access in Vehicular Environments Basic Protocols (IETF Hackathon 111, 113) - [GitHub](https://github.com/ipwave-hackathon-ietf/ipwave-hackathon-ietf-113)***
+***IPWAVE: IP Wireless Access in Vehicular Environments Basic Protocols (IETF Hackathon 111, 113) - [[GitHub]](https://github.com/ipwave-hackathon-ietf/ipwave-hackathon-ietf-113)***
 - ML-based Proactive Handover in LTE/5G using OMNet++ and SimuLTE. 
 - Worked with SKKU IoTLab.
 
-***RustPython: A Python-3 Interpreter written in Rust - [GitHub](https://github.com/RustPython/RustPython/pulls?q=is%3Apr+is%3Aclosed+author%3Agilteunchoi+)***
+***RustPython: A Python-3 Interpreter written in Rust - [[GitHub]](https://github.com/RustPython/RustPython/pulls?q=is%3Apr+is%3Aclosed+author%3Agilteunchoi+)***
 - Open Source Contribution during [PyCon APAC 2022](https://tw.pycon.org/2022/en-us) and [OSSCA 2022](https://www.contribution.ac/).
 
-***[VISS](https://www.w3.org/TR/viss2-core/): Vehicle Information Service Specification Interface - [GitHub](https://github.com/skku-iotlab/viss_backend)***
+***[VISS](https://www.w3.org/TR/viss2-core/): Vehicle Information Service Specification Interface - [[GitHub]](https://github.com/skku-iotlab/viss_backend)***
 - REST API and WebSocket server Development using Django.
 - Worked with SKKU IoTLab. and Electronics and Telecommunications Research Institute., South Korea.
 
-***Smart Seamless Station: Android application for guiding visually impaired persons in subway stations - [GitHub](https://github.com/gilteunchoi/3S)***
+***Smart Seamless Station: Android application for guiding visually impaired persons in subway stations - [[GitHub]](https://github.com/gilteunchoi/3S)***
 - Localization Service Based on Public WiFi's RSSI & BSSID, Analyzing with PyTorch Neural-Network Model. 
 - Related Studies were Published at the KICS-2021-Fall conference.<sup>[*](http://iotlab.skku.edu/publications/domestic-conference/WiFi-Beacon-Localization-KICS-2021-Fall.pdf)</sup>
 
