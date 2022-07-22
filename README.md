@@ -21,13 +21,14 @@ Gilteun Choi is an undergraduate student in the [School of Computing Science and
 
 ***Smart Seamless Station: Android application for guiding visually impaired persons in subway stations - [GitHub](https://github.com/gilteunchoi/3S)***
 - Localization Service Based on Public WiFi's RSSI & BSSID, Analyzing with PyTorch Neural-Network Model. 
-- Related Studies were Published at the KICS-2021-Fall conference<sup>[2](http://iotlab.skku.edu/publications/domestic-conference/WiFi-Beacon-Localization-KICS-2021-Fall.pdf)</sup>.
+- Related Studies were Published at the KICS-2021-Fall conference.<sup>[*](http://iotlab.skku.edu/publications/domestic-conference/WiFi-Beacon-Localization-KICS-2021-Fall.pdf)</sup>
 
 
-
-## Certifications:
+## Experience and Certifications
 <a href="https://www.credly.com/badges/f53f8506-56ba-4c42-9c36-10b76cd17146/public_url"><img src="https://user-images.githubusercontent.com/61682534/156751782-7e5585b7-d97e-4530-8e03-8f100dd4aa58.png" width="120"></a>
 <a href="https://www.credly.com/badges/cdd98f16-d80d-4bdb-b745-984296205154/public_url"><img src="https://user-images.githubusercontent.com/61682534/156751755-46dc2622-06ca-4782-ac95-07860e9a751f.png" width="120"></a>
+<a href="https://www.contribution.ac/"><img src="https://user-images.githubusercontent.com/61682534/180488778-cc4ac3f3-29ab-4d62-95bc-015ceef28716.png" width="120"></a>
+
 
 ## Interests
 ### Topics:
