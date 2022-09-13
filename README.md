@@ -1,6 +1,10 @@
 ## Biography
 Gilteun Choi is an undergraduate student in the [School of Computing Science and Engineering](https://cse.pusan.ac.kr/cseEng/index..do), College of Information and BioMedical Engineering, [Pusan National University](https://www.pusan.ac.kr/eng/Main.do), South Korea, since 2021. He is an Intern researcher in the [Internet of Things (IoT) Laboratory](http://iotlab.skku.edu/index.php), Department of Computer Science and Engineering, College of Software, [Sungkyunkwan University](https://www.skku.edu/eng/), South Korea, since summer 2021.
 
+<a href="https://mailcar.com"><img src="https://img.shields.io/badge/Blog-e9dcbe?style=flat"/></a>
+<a href="https://scholar.google.com/citations?user=WYW1S4wAAAAJ"><img src="https://img.shields.io/badge/Google Scholar-4285F4?style=flat&logo=GoogleScholar&logoColor=white"/></a>
+<a href="https://www.dbpia.co.kr/author/authorDetail?ancId=5079461"><img src="https://img.shields.io/badge/DBpia-ef4348?style=flat"/></a>
+
 ## Publications 
 1. Seongreol Park, Gilteun Choi, Hong Jinwook and Hwan-Gue Cho, "Performance Analysis on Grain Seeds Counting Algorithms", IPIU 2022, Online, February 9-11, 2022.
 
@@ -39,9 +43,6 @@ Gilteun Choi is an undergraduate student in the [School of Computing Science and
 <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-0C4B33?style=flat"/></a><br>
 <img src="https://img.shields.io/badge/Wireless Network-808080?style=flat"/> <img src="https://img.shields.io/badge/Indoor Localization-808080?style=flat"/> <img src="https://img.shields.io/badge/Deep Learning-808080?style=flat"/>
 
-### Realted links:
-<a href="https://mailcar.com"><img src="https://img.shields.io/badge/Blog-e9dcbe?style=flat"/></a>
+### Other links:
 <a href="https://cse.pusan.ac.kr/cse/27725/subview.do"><img src="https://img.shields.io/badge/CodeCoach-196f93?style=flat"/></a>
-<a href="https://scholar.google.com/citations?user=WYW1S4wAAAAJ"><img src="https://img.shields.io/badge/Google Scholar-4285F4?style=flat&logo=GoogleScholar&logoColor=white"/></a>
-<a href="https://www.dbpia.co.kr/author/authorDetail?ancId=5079461"><img src="https://img.shields.io/badge/DBpia-ef4348?style=flat"/></a>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgilteunchoi&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
