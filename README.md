@@ -115,51 +115,23 @@ Node.js, Discord API
 
 # **Awards** & Certifications
 
+- 2022.10 | 2022 오픈소스 컨트리뷰션 아카데미 과학기술정보통신부 장관상
 
-2022.10 
+- 2022.03 | AWS Certified Solutions Architect – Associate
 
-> **2022 오픈소스 컨트리뷰션 아카데미 과학기술정보통신부 장관상**
-> 
+- 2021.11 | 2021년도 한국통신학회 추계종합학술발표회 학부우수논문상
 
-2022.03
+- 2021.11 | 부산대학교 Mini Kaggle 대회 “콩 세는 밤” 최우수상
 
-> **AWS Certified Solutions Architect – Associate**
-> 
+- 2021.11 | 2021 MathWorks Korea MATLAB Cody Challenge 6등
 
-2021.11
+- 2021.09 | 제 1회 Pusan National University Cody Challenge 1등
 
-> **2021년도 한국통신학회 추계종합학술발표회 학부우수논문상**
-> 
+- 2021.06 | 제 1회 부산대학교 SW-AI 문제해결 경진대회 최우수상
 
-2021.11
+- 2021.01 | 2021학년도 부산대학교 입학 전 소프트웨어교육 해커톤 최우수상
 
-> **부산대학교 Mini Kaggle 대회 “콩 세는 밤” 최우수상**
-> 
-
-2021.11
-
-> ****2021 MathWorks Korea MATLAB Cody Challenge 6등****
-> 
-
-2021.09
-
-> ****제 1회 Pusan National University Cody Challenge 1등****
-> 
-
-2021.06
-
-> **제 1회 부산대학교 SW-AI 문제해결 경진대회 최우수상**
-> 
-
-2021.01
-
-> ****2021학년도 부산대학교 입학 전 소프트웨어교육 해커톤 최우수상****
-> 
-
-2019.05
-
-> ****AWS Certified Cloud Practitioner****
-> 
+- 2019.05 | AWS Certified Cloud Practitioner
 
 # Education
 
