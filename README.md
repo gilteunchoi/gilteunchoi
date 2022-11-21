@@ -4,7 +4,7 @@
 
 # 🙋 About Me
 - 안녕하세요, 주니어 백엔드 개발자 최길튼입니다.
-- 고등학교 시절 유저 18,000명의 디스코드 채팅 봇<sup>[1]</sup> 을 만들고 운영한 경험이 있습니다.
+- 고등학교 시절 유저 국내외 사용자 18,000명의 디스코드 채팅 봇<sup>[1]</sup> 을 만들고 운영한 경험이 있습니다.
 - 다른 사람들과 이야기하며 배우는 방식을 선호합니다.
     - 오프라인 스터디와 커피챗☕ 에 참여하는 것을 매우 좋아합니다.
     - 코딩교육 봉사 동아리 [코드코치](https://codecoach.imweb.me/)의 회장입니다, 대학교 새내기 시절부터 2년간 활동하고 있습니다.
@@ -42,6 +42,8 @@
     - `Python`, `Django`
 - **LoAlphaGO | LostArk 이벤트 알림 디스코드 채팅 봇<sup>[1]</sup>**
     - `2018.12 ~ 2019.03`
+    - [`러시아 게임 채널 Siddgames 소개 자료`](https://dzen.ru/media/siddgames/discord-bot-dlia-vashego-kanala-lost-ark-5c1647f52fb96d00aa8d152f)
+    - [`영미권 커뮤니티 Reddit 소개 게시글`](https://www.reddit.com/r/lostarkgame/comments/aa8uru/lost_ark_eventisland_alarm_bot/)
     - `백엔드 개발` `개인 프로젝트`
     - `Javascript`, `Node.js`
 
