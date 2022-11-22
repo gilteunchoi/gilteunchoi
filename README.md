@@ -23,7 +23,7 @@
 - `IntelliJ` `Visual Studio Code` `PyCharm`
 - `Postman` 
 
-# 💻 Work Experience & Projects
+# 💻 Work Experience & Personal Projects
 - **[WCNC<sup>[Github]</sup>](https://github.com/washcarnewcar/WashcarNewcar-Back) | 세차장 조회 및 예약 플랫폼**
     - `2022.08 ~ 현재`
     - `백엔드 개발` `스타트업`
@@ -39,13 +39,13 @@
 - **[VISS<sup>[Github]</sup>](https://github.com/skku-iotlab/viss_backend) | W3의 VISS표준을 따르는 IoT 차량 서버 개발**
     - `2021.08 ~ 2021.09`
     - `백엔드 개발` `성균관대학교 IoT연구실`
-    - `Python`, `Django`
+    - `Python` `Django`
 - **LoAlphaGO | LostArk 이벤트 알림 디스코드 채팅 봇<sup>[1]</sup>**
     - `2018.12 ~ 2019.03`
     - [`러시아 게임 채널 Siddgames 소개 자료`](https://dzen.ru/media/siddgames/discord-bot-dlia-vashego-kanala-lost-ark-5c1647f52fb96d00aa8d152f)
     - [`영미권 커뮤니티 Reddit 소개 게시글`](https://www.reddit.com/r/lostarkgame/comments/aa8uru/lost_ark_eventisland_alarm_bot/)
     - `백엔드 개발` `개인 프로젝트`
-    - `Javascript`, `Node.js`
+    - `Javascript` `Node.js`
 
 # 🎓 Education & Certifications
 > 2021.03 ~ 현재 - 부산대학교 정보컴퓨터공학부 4학기 재학 중
