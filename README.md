@@ -59,7 +59,7 @@
 # 🎖 Awards
 > 2022.10 - **2022 오픈소스 컨트리뷰션 아카데미 대상 (과학기술정보통신부 장관상)<sup>[2]</sup>**
 
-> 2021.11 - 2021년도 한국통신학회 추계종합학술발표회 학부우수논문상
+> 2021.11 - 2021년도 한국통신학회 추계종합학술발표회 학부우수논문상<sup>[3]</sup>
 
 > 2021.11 - 2021 MathWorks Korea MATLAB Cody Challenge 6등 (KAIST, 경북, 광운, 부산, 성균관, 중앙, 한양대학교 연합 대회)
 
@@ -72,4 +72,4 @@
 # 📄 Publication
 > 박승렬, 최길튼, 홍진욱, 조환규, [곡식 알갱이 개수 추정 알고리즘 개발과 성능평가](https://github.com/gilteunchoi/gilteunchoi/blob/main/Grain-Seeds-Counting.pdf), IPIU 2022, Online, February 9-11, 2022.
 
-> Gilteun Choi, Seongreol Park, Jihyeon Lee, Jungwan Choy, and Jaehoon (Paul) Jeong, "[Wi-Fi Beacon-Based Localization for Guiding Visually Impaired Persons in Subway Stations](https://github.com/gilteunchoi/gilteunchoi/blob/main/WiFi-Beacon-Localization.pdf)", KICS-2021-Fall, **Best Student Paper Award**, Yeosu City, Korea, November 17-19, 2021.
+> Gilteun Choi, Seongreol Park, Jihyeon Lee, Jungwan Choy, and Jaehoon (Paul) Jeong, "[Wi-Fi Beacon-Based Localization for Guiding Visually Impaired Persons in Subway Stations](https://github.com/gilteunchoi/gilteunchoi/blob/main/WiFi-Beacon-Localization.pdf)", KICS-2021-Fall, **Best Student Paper Award**, Yeosu City, Korea, November 17-19, 2021.<sup>[3]</sup>
