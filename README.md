@@ -24,19 +24,19 @@
 - `Postman` 
 
 # 💻 Work Experience & Personal Projects
-- **[WCNC<sup>[Github]</sup>](https://github.com/washcarnewcar/WashcarNewcar-Back) | 세차장 조회 및 예약 플랫폼**
+- **세차새차[<sup>[Github]</sup>](https://github.com/washcarnewcar/WashcarNewcar-Back) | 세차장 조회 및 예약 플랫폼**
     - `2022.08 ~ 현재`
     - `백엔드 개발` `스타트업`
     - `Java` `Spring Boot` `MySQL` `AWS`
-- **[RustPython<sup>[Github]</sup>](https://github.com/RustPython/RustPython/pulls?q=is%3Apr+author%3Agilteunchoi+) | Rust로 만드는 Python 인터프리터<sup>[2]</sup>**
+- **RustPython[<sup>[Github]</sup>](https://github.com/RustPython/RustPython/pulls?q=is%3Apr+author%3Agilteunchoi+) | Rust로 만드는 Python 인터프리터<sup>[2]</sup>**
     - `2022.07 ~ 2022.10`
     - `오픈소스 기여` `오픈소스 컨트리뷰션 아카데미`
     - `Rust` `Python` `C++`
-- **[IPWAVE<sup>[Github]</sup>](https://github.com/gilteunchoi/omnet-proactive-handover) | 고속도로 속 차량의 Proactive Handover(선제적 통신 채널 이전) 시뮬레이션 개량**
+- **IPWAVE[<sup>[Github]</sup>](https://github.com/gilteunchoi/omnet-proactive-handover) | 고속도로 속 차량의 Proactive Handover(선제적 통신 채널 이전) 시뮬레이션 개량**
     - `2022.01 ~ 2022.02` 
     - `시뮬레이션 개발` `성균관대학교 IoT연구실`
     - `OMNet++` `C++` `Python` `LSTM`
-- **[VISS<sup>[Github]</sup>](https://github.com/skku-iotlab/viss_backend) | W3의 VISS표준을 따르는 IoT 차량 서버 개발**
+- **VISS[<sup>[Github]</sup>](https://github.com/skku-iotlab/viss_backend) | W3의 VISS표준을 따르는 IoT 차량 서버 개발**
     - `2021.08 ~ 2021.09`
     - `백엔드 개발` `성균관대학교 IoT연구실`
     - `Python` `Django`
