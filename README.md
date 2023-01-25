@@ -24,7 +24,7 @@
 - `Postman` 
 
 # 💻 Work Experience & Personal Projects
-- **세차새차[<sup>[Github]</sup>](https://github.com/washcarnewcar/WashcarNewcar-Back) | 세차장 조회 및 예약 플랫폼**
+- **세차새차[<sup>[Github]</sup>](https://github.com/washcarnewcar/washcar.me-spring-server) | 세차장 조회 및 예약 플랫폼**
     - `2022.08 ~ 현재`
     - `백엔드 개발` `스타트업`
     - `Java` `Spring Boot` `MySQL` `AWS`
@@ -32,10 +32,6 @@
     - `2022.07 ~ 2022.10`
     - `오픈소스 기여` `오픈소스 컨트리뷰션 아카데미`
     - `Rust` `Python` `C++`
-- **IPWAVE[<sup>[Github]</sup>](https://github.com/gilteunchoi/omnet-proactive-handover) | 고속도로 속 차량의 Proactive Handover(선제적 통신 채널 이전) 시뮬레이션 개량**
-    - `2022.01 ~ 2022.02` 
-    - `시뮬레이션 개발` `성균관대학교 IoT연구실`
-    - `OMNet++` `C++` `Python` `LSTM`
 - **VISS[<sup>[Github]</sup>](https://github.com/skku-iotlab/viss_backend) | W3의 VISS표준을 따르는 IoT 차량 서버 개발**
     - `2021.08 ~ 2021.09`
     - `백엔드 개발` `성균관대학교 IoT연구실`
@@ -48,8 +44,8 @@
     - `Javascript` `Node.js`
 
 # 🎓 Education & Certifications
-> 2021.03 ~ 현재 - 부산대학교 정보컴퓨터공학부 4학기 재학 중
->    - 학점 평균 4.18 / 4.5
+> 2021.03 ~ 현재 - 부산대학교 정보컴퓨터공학부 4학기 이수
+>    - 학점 평균 4.21 / 4.5
 >    - 전(全) 학기 성적 우수 장학생
     
 > 2022.03 - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/f53f8506-56ba-4c42-9c36-10b76cd17146/public_url)
