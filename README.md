@@ -3,7 +3,6 @@
 # 📞 Contact & Channel
 - **Email | gilteunchoi@gmail.com**
 - **Github | [https://github.com/gilteunchoi](https://github.com/gilteunchoi)**
-- **Blog | [https://mailcar.com](https://mailcar.com)**
 
 # 🙋 About Me
 - 안녕하세요, 주니어 백엔드 개발자, 최길튼입니다.
