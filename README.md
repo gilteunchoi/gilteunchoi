@@ -1,11 +1,11 @@
-# 안녕하세요, 백엔드 개발자 최길튼입니다. [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgilteunchoi&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://mailcar.com)
+# 안녕하세요, 최길튼입니다. [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgilteunchoi&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://mailcar.com)
+
+- 문제해결형 백엔드 개발자입니다.
+- CATCH TABLE(캐치테이블) Back End Developer
 
 # 📞 Contact & Channel
 - Email | gilteunchoi@gmail.com
 - LinkedIn | [https://www.linkedin.com/in/gilteun/](https://www.linkedin.com/in/gilteun/)
-- Instagram | [https://www.instagram.com/gilteun/](https://www.instagram.com/gilteun/)
-- Github | [https://github.com/gilteunchoi](https://github.com/gilteunchoi)
-
 
 # Work Experience
 
