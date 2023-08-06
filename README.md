@@ -2,8 +2,10 @@
 
 # 📞 Contact & Channel
 - Email | gilteunchoi@gmail.com
-- LinkedIn | https://www.linkedin.com/in/%EA%B8%B8%ED%8A%BC-%EC%B5%9C-078261278
-- Github | https://github.com/gilteunchoi
+- LinkedIn | [https://www.linkedin.com/in/gilteun/](https://www.linkedin.com/in/gilteun/)
+- Instagram | [https://www.instagram.com/gilteun/](https://www.instagram.com/gilteun/)
+- Github | [https://github.com/gilteunchoi](https://github.com/gilteunchoi)
+
 
 # Work Experience
 
@@ -26,6 +28,6 @@
 - 2021년 7월 - 2021년 8월 · 2개월
 - 대한민국 경기도 · 대면근무
 
-# Badge
+# Badges
 
 <img src = "https://user-images.githubusercontent.com/61682534/226188069-df0c7cb7-e2c9-473c-b5f0-30ef5f6c7c90.png" width="15%" height="15%"> <img src = "https://user-images.githubusercontent.com/61682534/226187886-f0a76650-d52e-4965-94ea-124da3cc9758.png" width="15%" height="15%"> <img src = "https://user-images.githubusercontent.com/61682534/226187737-bd5cb5a7-3ab9-4a7d-85c1-30f006437435.png" width="15%" height="15%"> <img src = "https://user-images.githubusercontent.com/61682534/226187741-75a75c81-accc-4c0b-84ec-da2396984e4a.png" width="15%" height="15%">
