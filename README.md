@@ -9,7 +9,7 @@
 
 ## Work Experience
 
-### [CATCH TABLE(캐치테이블)](https://app.catchtable.co.kr/) <img src = "https://media.licdn.com/dms/image/D4E0BAQGekz0QZRhebw/company-logo_100_100/0/1680663308107/catchtable_logo?e=1703721600&v=beta&t=4mqgNpNz0L2YfCXIZhmmoLN7SaHgwIyeSGh8imFFKG8" width="28px" height="28px"> · Software Engineer (BE)
+### [CATCH TABLE(캐치테이블)](https://app.catchtable.co.kr/) <img src = "https://app.catchtable.co.kr/public/img/app_icon_round_type.png" width="28px" height="28px"> · Software Engineer (BE)
 - 2023년 5월 - 현재
 - 대한민국 경기도 · 대면근무
 ---
@@ -19,12 +19,12 @@
 - 대한민국 인천 · 대면근무
 ---
 
-### [성균관대학교](http://iotlab.skku.edu/) <img src = "https://media.licdn.com/dms/image/C510BAQH9AIgSW2OIGA/company-logo_200_200/0/1519894777649?e=1703721600&v=beta&t=ncNUCIAiG-C7ZG4I1_GIkRNUJZInxwgi0T6MSl6rv7Y" width="32px" height="32px"> · Research Assistant
+### [성균관대학교](http://iotlab.skku.edu/) · Research Assistant
 - 2022년 1월 - 2022년 2월 · 2개월
 - 대한민국 경기도 · 대면근무
 ---
 
-### [성균관대학교](http://iotlab.skku.edu/) <img src = "https://media.licdn.com/dms/image/C510BAQH9AIgSW2OIGA/company-logo_200_200/0/1519894777649?e=1703721600&v=beta&t=ncNUCIAiG-C7ZG4I1_GIkRNUJZInxwgi0T6MSl6rv7Y" width="32px" height="32px"> · Research Assistant
+### [성균관대학교](http://iotlab.skku.edu/) · Research Assistant
 - 2021년 7월 - 2021년 8월 · 2개월
 - 대한민국 경기도 · 대면근무
 
