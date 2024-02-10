@@ -21,12 +21,9 @@
 
 ### [성균관대학교](http://iotlab.skku.edu/) · Research Assistant
 - 2022년 1월 - 2022년 2월 · 2개월
-- 대한민국 경기도 · 대면근무
----
-
-### [성균관대학교](http://iotlab.skku.edu/) · Research Assistant
 - 2021년 7월 - 2021년 8월 · 2개월
 - 대한민국 경기도 · 대면근무
+---
 
 ## Badges
 
