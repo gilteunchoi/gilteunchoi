@@ -30,4 +30,7 @@
 
 ## Badges
 
-<img src = "https://user-images.githubusercontent.com/61682534/226188069-df0c7cb7-e2c9-473c-b5f0-30ef5f6c7c90.png" width="15%" height="15%"> <img src = "https://user-images.githubusercontent.com/61682534/226187886-f0a76650-d52e-4965-94ea-124da3cc9758.png" width="15%" height="15%"> <img src = "https://user-images.githubusercontent.com/61682534/226187737-bd5cb5a7-3ab9-4a7d-85c1-30f006437435.png" width="15%" height="15%"> <img src = "https://user-images.githubusercontent.com/61682534/226187741-75a75c81-accc-4c0b-84ec-da2396984e4a.png" width="15%" height="15%">
+<a href = "https://www.holopin.io/userbadge/cl9ms9nk2034909l6j0omcq4d"><img src = "https://user-images.githubusercontent.com/61682534/226188069-df0c7cb7-e2c9-473c-b5f0-30ef5f6c7c90.png" width="15%" height="15%"></a>
+<a href = "https://github.com/RustPython/RustPython/pulls?q=is%3Apr+author%3Agilteunchoi+"><img src = "https://user-images.githubusercontent.com/61682534/226187886-f0a76650-d52e-4965-94ea-124da3cc9758.png" width="15%" height="15%"></a>
+<a href = "https://www.credly.com/badges/f53f8506-56ba-4c42-9c36-10b76cd17146/public_url"><img src = "https://user-images.githubusercontent.com/61682534/226187737-bd5cb5a7-3ab9-4a7d-85c1-30f006437435.png" width="15%" height="15%"></a>
+<a href = "https://www.credly.com/badges/cdd98f16-d80d-4bdb-b745-984296205154/public_url"><img src = "https://user-images.githubusercontent.com/61682534/226187741-75a75c81-accc-4c0b-84ec-da2396984e4a.png" width="15%" height="15%"></a>
