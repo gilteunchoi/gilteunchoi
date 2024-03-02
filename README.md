@@ -3,7 +3,8 @@
 > 비즈니스 문제 해결을 위해 적극적으로 움직이는 백엔드 개발자입니다. 시스템에 필요한 새로운 기능 모듈을 제안해 주도적으로 개발 후, 서비스에 반영시킨 경험을 가지고 있습니다. 현재 캐치테이블 백엔드(글로벌버전) 엔지니어로 재직 중입니다.
 
 ## Contact Information
-✉️ gilteunchoi@gmail.com 💼 [https://www.linkedin.com/in/gilteun/](https://www.linkedin.com/in/gilteun/)
+✉️ gilteunchoi@gmail.com <br>
+💼 [https://www.linkedin.com/in/gilteun/](https://www.linkedin.com/in/gilteun/)
 
 ## Work Experience
 
