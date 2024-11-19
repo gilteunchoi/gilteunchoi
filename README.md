@@ -6,9 +6,9 @@
 
 ## Contact Information
 ✉️ Email | gilteunchoi@gmail.com <br>
-💼 LinkedIn | [https://www.linkedin.com/in/gilteun/](https://www.linkedin.com/in/gilteun/) <br>
+💼 LinkedIn | [https://www.linkedin.com/in/gilteun](https://www.linkedin.com/in/gilteun/) <br>
 📄 Resumes | [https://www.rallit.com/hub/resumes/33187](https://www.rallit.com/hub/resumes/33187) <br>
-✍️ Blog | [https://mailcar.com/](https://mailcar.com/) <br>
+✍️ Blog | [https://mailcar.com](https://mailcar.com/) <br>
 
 <br>
 
@@ -47,5 +47,3 @@ Research Assistant | 사물인터넷 연구실 | 2022.01. ~ 02. & 2021.07. ~ 08.
 <a href = "https://www.credly.com/badges/cdd98f16-d80d-4bdb-b745-984296205154/public_url"><img src = "https://user-images.githubusercontent.com/61682534/226187741-75a75c81-accc-4c0b-84ec-da2396984e4a.png" width="15%" height="15%"></a>
 <a href = "https://www.holopin.io/userbadge/cl9ms9nk2034909l6j0omcq4d"><img src = "https://user-images.githubusercontent.com/61682534/226188069-df0c7cb7-e2c9-473c-b5f0-30ef5f6c7c90.png" width="15%" height="15%"></a>
 <a href = "https://github.com/RustPython/RustPython/pulls?q=is%3Apr+author%3Agilteunchoi+"><img src = "https://user-images.githubusercontent.com/61682534/226187886-f0a76650-d52e-4965-94ea-124da3cc9758.png" width="15%" height="15%"></a>
-
-<br>
