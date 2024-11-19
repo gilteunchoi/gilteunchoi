@@ -2,9 +2,15 @@
 
 > 캐치테이블을 모두가 더 잘 사용할 수 있도록, 글로벌TF에서 다국어 서비스를 책임지고 개발하고 있습니다.
 
+<br>
+
 ## Contact Information
-✉️ gilteunchoi@gmail.com <br>
-💼 [https://www.linkedin.com/in/gilteun/](https://www.linkedin.com/in/gilteun/) <br>
+✉️ Email | gilteunchoi@gmail.com <br>
+💼 LinkedIn | [https://www.linkedin.com/in/gilteun/](https://www.linkedin.com/in/gilteun/) <br>
+📄 Resumes | [https://www.rallit.com/hub/resumes/33187](https://www.rallit.com/hub/resumes/33187) <br>
+✍️ Blog | [https://mailcar.com/](https://mailcar.com/) <br>
+
+<br>
 
 ## Work Experience
 ### 캐치테이블(주식회사 와드) <img src = "https://app.catchtable.co.kr/public/img/app_icon_round_type.png" width="28px" height="28px"> · Back-end Engineer
@@ -22,13 +28,15 @@ Research Assistant | 사물인터넷 연구실 | 2022.01. ~ 02. & 2021.07. ~ 08.
 - 차량 정보 서비스 표준(VISS)에 따르는 연구용 API 서버를 개발했습니다.
 - http://iotlab.skku.edu/
 
-## Education
+<br>
 
+## Education
 ### 부산대학교 정보컴퓨터공학부
 대학교(학사) | 정보의생명공학대학 정보컴퓨터공학부 (GPA 4.21 / 4.5) | 2021.03. ~ 휴학 중
 
-## Awards & Publications 
+<br>
 
+## Awards & Publications 
 > Gilteun Choi, Seongreol Park, Jihyeon Lee, Jungwan Cho, and Jaehoon (Paul) Jeong, "[Wi-Fi Beacon-Based Localization for Guiding Visually Impaired Persons in Subway Stations](https://github.com/gilteunchoi/gilteunchoi/blob/main/WiFi-Beacon-Localization.pdf)", KICS-2021-Fall, **Best Student Paper Award**, Yeosu City, Korea, November 17-19, 2021.
 
 > 2022 오픈소스 컨트리뷰션 아카데미 과학기술정보통신부 장관상 <br> 2022.10, RustPython팀
@@ -40,8 +48,4 @@ Research Assistant | 사물인터넷 연구실 | 2022.01. ~ 02. & 2021.07. ~ 08.
 <a href = "https://www.holopin.io/userbadge/cl9ms9nk2034909l6j0omcq4d"><img src = "https://user-images.githubusercontent.com/61682534/226188069-df0c7cb7-e2c9-473c-b5f0-30ef5f6c7c90.png" width="15%" height="15%"></a>
 <a href = "https://github.com/RustPython/RustPython/pulls?q=is%3Apr+author%3Agilteunchoi+"><img src = "https://user-images.githubusercontent.com/61682534/226187886-f0a76650-d52e-4965-94ea-124da3cc9758.png" width="15%" height="15%"></a>
 
-## Links
-
-📄 Resumes [https://www.rallit.com/hub/resumes/33187](https://www.rallit.com/hub/resumes/33187)
-
-✍️ Blog [https://mailcar.com/](https://mailcar.com/)
+<br>
