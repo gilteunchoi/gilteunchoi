@@ -1,36 +1,42 @@
-# 문제해결형 개발자, 최길튼입니다. ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgilteunchoi&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)
+# 안녕하세요, 백엔드 엔지니어 최길튼입니다. ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgilteunchoi&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)
 
-> 비즈니스 문제 해결을 위해 적극적으로 움직이는 백엔드 개발자입니다. 현재 캐치테이블 백엔드(글로벌버전) 엔지니어로 재직 중입니다.
+> 캐치테이블을 모두가 더 잘 사용할 수 있도록 글로벌TF에서 다국어 서비스를 책임지고 개발하고 있습니다.
 
 ## Contact Information
 ✉️ gilteunchoi@gmail.com <br>
-💼 [https://www.linkedin.com/in/gilteun/](https://www.linkedin.com/in/gilteun/)
+💼 [https://www.linkedin.com/in/gilteun/](https://www.linkedin.com/in/gilteun/) <br>
 
 ## Work Experience
 
-### [CATCH TABLE(캐치테이블)](https://app.catchtable.co.kr/) <img src = "https://app.catchtable.co.kr/public/img/app_icon_round_type.png" width="28px" height="28px"> · Software Engineer (BE)
-- 2023년 5월 - 현재
-- 대한민국 경기도 · 대면근무
+### [캐치테이블(주식회사 와드)](https://app.catchtable.co.kr/) <img src = "https://app.catchtable.co.kr/public/img/app_icon_round_type.png" width="28px" height="28px"> · Back-end Engineer
+백엔드 엔지니어 | 글로벌버전TF | 2023.05. ~ 재직 중
 
-## Personal Experience
-
-### [세차새차](https://www.washcar.me/) <img src = "https://landing.washcar.me/img/Logo.png" width="28px" height="28px"> · Software Engineer (BE)
-- 2023년 1월 - 2023년 5월 · 5개월
-- 대한민국 인천 · 대면근무
+`Java` `Kotlin` `Spring` `Spring Boot` `Kafka` `Redis` `MySQL` `rabbitmq` `AWS`
+- 글로벌 서비스의 백엔드 엔지니어링을 담당하며, 레거시 서비스에 국제화 기능을 추가하는 시스템을 설계 단계부터 주도했습니다. AWS DMS와 Kafka를 활용해 실시간 다국어 서비스를 구현하고 1년간 안정적으로 운영했습니다.
+- 캐치테이블의 주요 서비스인 예약과 웨이팅 시스템에서 엄격한 트랜잭션 처리와 이벤트 기반 아키텍처에 대한 전반적인 경험을 쌓았습니다.
 
 ### [성균관대학교 사물인터넷 연구실](http://iotlab.skku.edu/) · Research Assistant
-- 2022년 1월 - 2022년 2월, 2021년 7월 - 2021년 8월 · 4개월
-- 대한민국 경기도 · 대면근무
+Research Assistant | 사물인터넷 연구실 | 2022.01. ~ 02. & 2021.07. ~ 08.
 
-## Publication
+`C++` `OmNet++` `Python` `Django`
+- 시뮬레이션 소프트웨어를 활용한 차량 네트워크 연구 모듈을 개발했습니다.
+- 차량 정보 서비스 표준(VISS)에 따르는 연구용 API 서버를 개발했습니다.
 
-> 박승렬, 최길튼, 홍진욱, 조환규, [곡식 알갱이 개수 추정 알고리즘 개발과 성능평가](https://github.com/gilteunchoi/gilteunchoi/blob/main/Grain-Seeds-Counting.pdf), IPIU 2022, Online, February 9-11, 2022.
+## Awards & Publications 
 
 > Gilteun Choi, Seongreol Park, Jihyeon Lee, Jungwan Cho, and Jaehoon (Paul) Jeong, "[Wi-Fi Beacon-Based Localization for Guiding Visually Impaired Persons in Subway Stations](https://github.com/gilteunchoi/gilteunchoi/blob/main/WiFi-Beacon-Localization.pdf)", KICS-2021-Fall, **Best Student Paper Award**, Yeosu City, Korea, November 17-19, 2021.
 
-## Badges
+> 2022 오픈소스 컨트리뷰션 아카데미 과학기술정보통신부 장관상 <br> 2022.10, RustPython팀
 
-<a href = "https://www.holopin.io/userbadge/cl9ms9nk2034909l6j0omcq4d"><img src = "https://user-images.githubusercontent.com/61682534/226188069-df0c7cb7-e2c9-473c-b5f0-30ef5f6c7c90.png" width="15%" height="15%"></a>
-<a href = "https://github.com/RustPython/RustPython/pulls?q=is%3Apr+author%3Agilteunchoi+"><img src = "https://user-images.githubusercontent.com/61682534/226187886-f0a76650-d52e-4965-94ea-124da3cc9758.png" width="15%" height="15%"></a>
+> 2021년도 한국통신학회 추계종합학술발표회 학부우수논문상 <br> 2021.11
+
 <a href = "https://www.credly.com/badges/f53f8506-56ba-4c42-9c36-10b76cd17146/public_url"><img src = "https://user-images.githubusercontent.com/61682534/226187737-bd5cb5a7-3ab9-4a7d-85c1-30f006437435.png" width="15%" height="15%"></a>
 <a href = "https://www.credly.com/badges/cdd98f16-d80d-4bdb-b745-984296205154/public_url"><img src = "https://user-images.githubusercontent.com/61682534/226187741-75a75c81-accc-4c0b-84ec-da2396984e4a.png" width="15%" height="15%"></a>
+<a href = "https://www.holopin.io/userbadge/cl9ms9nk2034909l6j0omcq4d"><img src = "https://user-images.githubusercontent.com/61682534/226188069-df0c7cb7-e2c9-473c-b5f0-30ef5f6c7c90.png" width="15%" height="15%"></a>
+<a href = "https://github.com/RustPython/RustPython/pulls?q=is%3Apr+author%3Agilteunchoi+"><img src = "https://user-images.githubusercontent.com/61682534/226187886-f0a76650-d52e-4965-94ea-124da3cc9758.png" width="15%" height="15%"></a>
+
+## Links
+
+📄 Resumes [https://www.rallit.com/hub/resumes/33187](https://www.rallit.com/hub/resumes/33187)
+
+✍️ Blog [https://mailcar.com/](https://mailcar.com/)
