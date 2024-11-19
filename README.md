@@ -1,26 +1,31 @@
 # 안녕하세요, 백엔드 엔지니어 최길튼입니다. ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgilteunchoi&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)
 
-> 캐치테이블을 모두가 더 잘 사용할 수 있도록 글로벌TF에서 다국어 서비스를 책임지고 개발하고 있습니다.
+> 캐치테이블을 모두가 더 잘 사용할 수 있도록, 글로벌TF에서 다국어 서비스를 책임지고 개발하고 있습니다.
 
 ## Contact Information
 ✉️ gilteunchoi@gmail.com <br>
 💼 [https://www.linkedin.com/in/gilteun/](https://www.linkedin.com/in/gilteun/) <br>
 
 ## Work Experience
-
-### [캐치테이블(주식회사 와드)](https://app.catchtable.co.kr/) <img src = "https://app.catchtable.co.kr/public/img/app_icon_round_type.png" width="28px" height="28px"> · Back-end Engineer
+### 캐치테이블(주식회사 와드) <img src = "https://app.catchtable.co.kr/public/img/app_icon_round_type.png" width="28px" height="28px"> · Back-end Engineer
 백엔드 엔지니어 | 글로벌버전TF | 2023.05. ~ 재직 중
 
 `Java` `Kotlin` `Spring` `Spring Boot` `Kafka` `Redis` `MySQL` `rabbitmq` `AWS`
 - 글로벌 서비스의 백엔드 엔지니어링을 담당하며, 레거시 서비스에 국제화 기능을 추가하는 시스템을 설계 단계부터 주도했습니다. AWS DMS와 Kafka를 활용해 실시간 다국어 서비스를 구현하고 1년간 안정적으로 운영했습니다.
 - 캐치테이블의 주요 서비스인 예약과 웨이팅 시스템에서 엄격한 트랜잭션 처리와 이벤트 기반 아키텍처에 대한 전반적인 경험을 쌓았습니다.
 
-### [성균관대학교 사물인터넷 연구실](http://iotlab.skku.edu/) · Research Assistant
+### 성균관대학교 사물인터넷 연구실 · Research Assistant
 Research Assistant | 사물인터넷 연구실 | 2022.01. ~ 02. & 2021.07. ~ 08.
 
 `C++` `OmNet++` `Python` `Django`
 - 시뮬레이션 소프트웨어를 활용한 차량 네트워크 연구 모듈을 개발했습니다.
 - 차량 정보 서비스 표준(VISS)에 따르는 연구용 API 서버를 개발했습니다.
+- http://iotlab.skku.edu/
+
+## Education
+
+### 부산대학교 정보컴퓨터공학부
+대학교(학사) | 정보의생명공학대학 정보컴퓨터공학부 (GPA 4.21 / 4.5) | 2021.03. ~ 휴학 중
 
 ## Awards & Publications 
 
