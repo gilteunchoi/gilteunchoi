@@ -8,7 +8,7 @@
 ✉️ Email | gilteunchoi@gmail.com <br>
 💼 LinkedIn | [https://www.linkedin.com/in/gilteun](https://www.linkedin.com/in/gilteun/) <br>
 📄 Resumes | [https://www.rallit.com/hub/resumes/33187](https://www.rallit.com/hub/resumes/33187) <br>
-✍️ Blog | [https://mailcar.com](https://mailcar.com/) <br>
+✍️ Blog | [https://medium.com/@gilteun](https://medium.com/@gilteun) <br>
 
 <br>
 
