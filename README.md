@@ -17,7 +17,7 @@
 백엔드 엔지니어 | 글로벌버전TF | 2023.05. ~ 재직 중
 
 `Java` `Kotlin` `Spring` `Spring Boot` `Kafka` `Redis` `MySQL` `rabbitmq` `AWS`
-- 글로벌 서비스의 백엔드 엔지니어링을 담당하며, 레거시 서비스에 국제화 기능을 추가하는 시스템을 설계 단계부터 주도했습니다. AWS DMS와 Kafka를 활용해 [실시간 다국어 서비스](https://medium.com/catchtable/캐치테이블-글로벌-버전-mau-두-배-성장의-비결-다국어-서비스-개발기-644258c5fcf6)를 구현하고 1년간 안정적으로 운영했습니다.
+- 글로벌 서비스의 백엔드 엔지니어링을 담당하며, 레거시 서비스에 국제화 기능을 추가하는 시스템을 설계 단계부터 주도했습니다. AWS DMS와 Kafka를 활용해 [실시간 다국어 서비스](https://medium.com/catchtable/캐치테이블-글로벌-버전-mau-두-배-성장의-비결-다국어-서비스-개발기-644258c5fcf6)를 구현하고 안정적으로 운영했습니다.
 - 캐치테이블의 주요 서비스인 예약과 웨이팅 시스템에서 엄격한 트랜잭션 처리와 이벤트 기반 아키텍처에 대한 전반적인 경험을 쌓았습니다.
 
 ## 
@@ -44,6 +44,7 @@ Research Assistant | 사물인터넷 연구실 | 2022.01. ~ 02. & 2021.07. ~ 08.
 
 > 2021년도 한국통신학회 추계종합학술발표회 학부우수논문상 <br> 2021.11
 
+<a href = "https://www.credly.com/badges/f53f8506-56ba-4c42-9c36-10b76cd17146/public_url)"><img src = "https://github.com/user-attachments/assets/eb936f98-9e20-44e9-b821-b6299ea5400b" width="15%" height="15%"></a>
 <a href = "https://www.credly.com/badges/f53f8506-56ba-4c42-9c36-10b76cd17146/public_url"><img src = "https://user-images.githubusercontent.com/61682534/226187737-bd5cb5a7-3ab9-4a7d-85c1-30f006437435.png" width="15%" height="15%"></a>
 <a href = "https://www.credly.com/badges/cdd98f16-d80d-4bdb-b745-984296205154/public_url"><img src = "https://user-images.githubusercontent.com/61682534/226187741-75a75c81-accc-4c0b-84ec-da2396984e4a.png" width="15%" height="15%"></a>
 <a href = "https://www.holopin.io/userbadge/cl9ms9nk2034909l6j0omcq4d"><img src = "https://user-images.githubusercontent.com/61682534/226188069-df0c7cb7-e2c9-473c-b5f0-30ef5f6c7c90.png" width="15%" height="15%"></a>
