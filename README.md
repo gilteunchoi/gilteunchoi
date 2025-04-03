@@ -1,4 +1,4 @@
-# 안녕하세요, 백엔드 엔지니어 최길튼입니다. ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgilteunchoi&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)
+# 안녕하세요, 백엔드 엔지니어 최길튼입니다.
 
 > 캐치테이블을 모두가 더 잘 사용할 수 있도록, 글로벌TF에서 다국어 서비스를 책임지고 개발하고 있습니다.
 
@@ -22,7 +22,7 @@
 
 ## 
 ### 성균관대학교 사물인터넷 연구실 · Research Assistant
-Research Assistant | 사물인터넷 연구실 | 2022.01. ~ 02. & 2021.07. ~ 08.
+Research Assistant | 사물인터넷 연구실 | 2022.01. ~ 02. | 2021.07. ~ 08.
 
 `C++` `OmNet++` `Python` `Django`
 - 시뮬레이션 소프트웨어를 활용한 차량 네트워크 연구 모듈을 개발했습니다.
